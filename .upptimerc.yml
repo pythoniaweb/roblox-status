@@ -1,16 +1,68 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: pythoniaweb # Your GitHub organization or username, where this repository lives
+repo: roblox-status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Main Roblox
+    url: https://roblox.com/
+  - name: Main Roblox (www)
+    url: https://www.roblox.com/
+  - name: Talant Roblox
+    url: https://talent.roblox.com/
+  - name: Thumbnail's Api
+    url: https://thumbnails.roblox.com/
+  - name: Asset's Delivery 
+    url: https://assetdelivery.roblox.com/
+  - name: Game Join Api
+    url: http://gamejoin.roblox.com/
+  - name: 2FA Api
+    url: https://twostepverification.roblox.com/
+  - name: Account Settings
+    url: https://accountsettings.roblox.com/
+  - name: Voice Api
+    url: https://voice.roblox.com/
+  - name: Account Info
+    url: https://accountinformation.roblox.com/
+  - name: Auth Api
+    url: https://auth.roblox.com/
+  - name: Private Message Api
+    url: https://privatemessages.roblox.com/
+  - name: Chat Api
+    url: https://chat.roblox.com/
+  - name: Friends Api
+    url: https://friends.roblox.com/
+  - name: Billing Api
+    url: https://billing.roblox.com/
+  - name: Roblox Docs
+    url: https://create.roblox.com/docs/reference/engine
+  - name: Games Api
+    url: https://games.roblox.com/
+  - name: User's Api
+    url: https://users.roblox.com/
+  - name: Inventory Api
+    url: https://inventory.roblox.com/
+  - name: Data Storage Api
+    url: https://gamepersistence.roblox.com/
+  - name: Developer Api
+    url: https://develop.roblox.com/
+  - name: Groups Api
+    url: https://groups.roblox.com/
+  - name: Contact's Api
+    url: https://contacts.roblox.com/
+  - name: Catalog Api
+    url: https://catalog.roblox.com/
+  - name: Dev Forum
+    url: https://devforum.roblox.com/
+  - name: Avatar Api
+    url: https://avatar.roblox.com/
+  - name: Economy Api
+    url: https://economy.roblox.com/
+  - name: Premium Future's Api
+    url: https://premiumfeatures.roblox.com/
+  - name: Badge's Api
+    url: https://badges.roblox.com/
+
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,8 +70,8 @@ status-website:
   cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  name: Roblox Status
+  introTitle: "Roblox Status by Anarchy Shutdowns Studio"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
