@@ -96,18 +96,20 @@
     "url": "http://gamejoin.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gamejoin.roblox.com.ico",
     "slug": "game-join-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 255,
-    "timeDay": 239,
-    "timeWeek": 239,
-    "timeMonth": 343,
-    "timeYear": 255,
-    "dailyMinutesDown": {}
+    "time": 254,
+    "timeDay": 176,
+    "timeWeek": 224,
+    "timeMonth": 336,
+    "timeYear": 254,
+    "dailyMinutesDown": {
+      "2023-01-24": 0
+    }
   },
   {
     "name": "2FA Api",
