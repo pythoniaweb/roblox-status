@@ -42,19 +42,19 @@
     "url": "https://talent.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/talent.roblox.com.ico",
     "slug": "talant-roblox",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 254,
-    "timeDay": 153,
-    "timeWeek": 221,
-    "timeMonth": 269,
-    "timeYear": 254,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 253,
+    "timeDay": 163,
+    "timeWeek": 215,
+    "timeMonth": 266,
+    "timeYear": 253,
     "dailyMinutesDown": {
-      "2023-01-28": 0
+      "2023-01-28": 12
     }
   },
   {
