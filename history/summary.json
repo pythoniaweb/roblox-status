@@ -284,19 +284,19 @@
     "url": "https://create.roblox.com/docs/reference/engine",
     "icon": "https://icons.duckduckgo.com/ip3/create.roblox.com.ico",
     "slug": "roblox-docs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 278,
-    "timeDay": 587,
-    "timeWeek": 389,
-    "timeMonth": 336,
-    "timeYear": 278,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 279,
+    "timeDay": 508,
+    "timeWeek": 385,
+    "timeMonth": 337,
+    "timeYear": 279,
     "dailyMinutesDown": {
-      "2023-02-09": 0
+      "2023-02-09": 13
     }
   },
   {
