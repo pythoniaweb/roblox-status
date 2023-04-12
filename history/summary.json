@@ -505,19 +505,19 @@
     "url": "https://premiumfeatures.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/premiumfeatures.roblox.com.ico",
     "slug": "premium-future-s-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 248,
-    "timeDay": 574,
-    "timeWeek": 644,
-    "timeMonth": 640,
-    "timeYear": 248,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 249,
+    "timeDay": 563,
+    "timeWeek": 632,
+    "timeMonth": 637,
+    "timeYear": 249,
     "dailyMinutesDown": {
-      "2023-04-12": 0
+      "2023-04-12": 12
     }
   },
   {
