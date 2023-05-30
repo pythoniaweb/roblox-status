@@ -213,19 +213,19 @@
     "url": "https://privatemessages.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/privatemessages.roblox.com.ico",
     "slug": "private-message-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 656,
+    "time": 349,
+    "timeDay": 654,
     "timeWeek": 648,
-    "timeMonth": 616,
-    "timeYear": 347,
+    "timeMonth": 617,
+    "timeYear": 349,
     "dailyMinutesDown": {
-      "2023-05-30": 0
+      "2023-05-30": 12
     }
   },
   {
