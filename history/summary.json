@@ -399,19 +399,19 @@
     "url": "https://groups.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/groups.roblox.com.ico",
     "slug": "groups-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 360,
-    "timeDay": 617,
-    "timeWeek": 635,
+    "time": 361,
+    "timeDay": 614,
+    "timeWeek": 632,
     "timeMonth": 608,
-    "timeYear": 360,
+    "timeYear": 361,
     "dailyMinutesDown": {
-      "2023-06-01": 23
+      "2023-06-01": 43
     }
   },
   {
