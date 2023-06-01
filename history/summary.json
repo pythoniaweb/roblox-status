@@ -220,7 +220,7 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 357,
-    "timeDay": 623,
+    "timeDay": 584,
     "timeWeek": 636,
     "timeMonth": 618,
     "timeYear": 357,
@@ -399,18 +399,20 @@
     "url": "https://groups.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/groups.roblox.com.ico",
     "slug": "groups-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 356,
-    "timeDay": 582,
-    "timeWeek": 638,
-    "timeMonth": 606,
-    "timeYear": 356,
-    "dailyMinutesDown": {}
+    "time": 357,
+    "timeDay": 614,
+    "timeWeek": 639,
+    "timeMonth": 607,
+    "timeYear": 357,
+    "dailyMinutesDown": {
+      "2023-06-01": 0
+    }
   },
   {
     "name": "Contact's Api",
