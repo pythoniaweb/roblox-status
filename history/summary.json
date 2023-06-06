@@ -233,18 +233,20 @@
     "url": "https://chat.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/chat.roblox.com.ico",
     "slug": "chat-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 374,
-    "timeDay": 557,
-    "timeWeek": 611,
-    "timeMonth": 617,
-    "timeYear": 374,
-    "dailyMinutesDown": {}
+    "time": 376,
+    "timeDay": 607,
+    "timeWeek": 617,
+    "timeMonth": 618,
+    "timeYear": 376,
+    "dailyMinutesDown": {
+      "2023-06-06": 0
+    }
   },
   {
     "name": "Friends Api",
