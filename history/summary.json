@@ -81,19 +81,19 @@
     "url": "https://assetdelivery.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/assetdelivery.roblox.com.ico",
     "slug": "asset-s-delivery",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 381,
-    "timeDay": 591,
-    "timeWeek": 618,
+    "time": 382,
+    "timeDay": 614,
+    "timeWeek": 622,
     "timeMonth": 635,
-    "timeYear": 381,
+    "timeYear": 382,
     "dailyMinutesDown": {
-      "2023-06-20": 0
+      "2023-06-20": 14
     }
   },
   {
