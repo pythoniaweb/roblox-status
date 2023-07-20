@@ -81,18 +81,20 @@
     "url": "https://assetdelivery.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/assetdelivery.roblox.com.ico",
     "slug": "asset-s-delivery",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 411,
-    "timeDay": 518,
-    "timeWeek": 582,
-    "timeMonth": 627,
+    "timeDay": 533,
+    "timeWeek": 578,
+    "timeMonth": 624,
     "timeYear": 411,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-20": 0
+    }
   },
   {
     "name": "Game Join Api",
