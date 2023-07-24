@@ -161,18 +161,16 @@
     "slug": "voice-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 405,
     "timeDay": 620,
     "timeWeek": 612,
     "timeMonth": 630,
     "timeYear": 405,
-    "dailyMinutesDown": {
-      "2023-07-23": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Account Info",
