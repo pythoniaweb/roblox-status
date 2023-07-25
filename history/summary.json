@@ -4,19 +4,19 @@
     "url": "https://roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/roblox.com.ico",
     "slug": "main-roblox",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 1141,
-    "timeDay": 1931,
-    "timeWeek": 1809,
-    "timeMonth": 1758,
-    "timeYear": 1141,
+    "time": 1140,
+    "timeDay": 1586,
+    "timeWeek": 1708,
+    "timeMonth": 1731,
+    "timeYear": 1140,
     "dailyMinutesDown": {
-      "2023-07-25": 0,
+      "2023-07-25": 12,
       "2023-01-04": 43
     }
   },
@@ -25,9 +25,9 @@
     "url": "https://www.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.roblox.com.ico",
     "slug": "main-roblox-www",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 313,
     "timeMonth": 326,
     "timeYear": 212,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-25": 0
+    }
   },
   {
     "name": "Talant Roblox",
