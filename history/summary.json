@@ -159,19 +159,19 @@
     "url": "https://voice.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/voice.roblox.com.ico",
     "slug": "voice-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 407,
-    "timeDay": 653,
-    "timeWeek": 624,
-    "timeMonth": 634,
+    "timeDay": 626,
+    "timeWeek": 619,
+    "timeMonth": 632,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2023-07-25": 0
+      "2023-07-25": 14
     }
   },
   {
