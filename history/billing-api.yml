@@ -1,7 +1,7 @@
 url: https://billing.roblox.com/
-status: down
-code: 503
-responseTime: 646
-lastUpdated: 2023-10-22T05:29:53.948Z
+status: up
+code: 200
+responseTime: 676
+lastUpdated: 2023-10-22T05:41:40.748Z
 startTime: 2022-11-06T21:22:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
