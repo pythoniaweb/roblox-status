@@ -6,9 +6,9 @@
     "slug": "main-roblox",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "95.02%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "95.85%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.97%",
     "time": 1316,
     "timeDay": 2315,
@@ -16,7 +16,7 @@
     "timeMonth": 1947,
     "timeYear": 1316,
     "dailyMinutesDown": {
-      "2023-10-21": 72,
+      "2023-10-21": 60,
       "2023-08-23": 30,
       "2023-01-04": 43
     }
@@ -28,9 +28,9 @@
     "slug": "main-roblox-www",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "95.02%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "95.85%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.97%",
     "time": 261,
     "timeDay": 430,
@@ -38,7 +38,7 @@
     "timeMonth": 434,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2023-10-21": 72,
+      "2023-10-21": 60,
       "2023-07-26": 62,
       "2023-07-25": 8
     }
@@ -68,9 +68,9 @@
     "slug": "thumbnail-s-api",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "95.02%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "95.85%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.97%",
     "time": 486,
     "timeDay": 668,
@@ -78,7 +78,7 @@
     "timeMonth": 675,
     "timeYear": 486,
     "dailyMinutesDown": {
-      "2023-10-21": 72,
+      "2023-10-21": 60,
       "2023-04-20": 76,
       "2023-04-19": 4
     }
@@ -90,9 +90,9 @@
     "slug": "asset-s-delivery",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "95.02%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "95.85%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.95%",
     "time": 479,
     "timeDay": 657,
@@ -100,7 +100,7 @@
     "timeMonth": 669,
     "timeYear": 479,
     "dailyMinutesDown": {
-      "2023-10-21": 72,
+      "2023-10-21": 60,
       "2023-07-20": 189
     }
   },
@@ -111,9 +111,9 @@
     "slug": "game-join-api",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "95.02%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "95.85%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.97%",
     "time": 771,
     "timeDay": 1052,
@@ -121,7 +121,7 @@
     "timeMonth": 1070,
     "timeYear": 771,
     "dailyMinutesDown": {
-      "2023-10-21": 72,
+      "2023-10-21": 60,
       "2023-01-28": 99
     }
   },
@@ -132,9 +132,9 @@
     "slug": "2-fa-api",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "95.01%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "95.85%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 472,
     "timeDay": 651,
@@ -142,7 +142,7 @@
     "timeMonth": 664,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2023-10-21": 72,
+      "2023-10-21": 60,
       "2022-11-25": 24
     }
   },
@@ -153,9 +153,9 @@
     "slug": "account-settings",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "95.01%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "95.85%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 470,
     "timeDay": 649,
@@ -163,7 +163,7 @@
     "timeMonth": 662,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2023-10-21": 72
+      "2023-10-21": 60
     }
   },
   {
@@ -173,9 +173,9 @@
     "slug": "voice-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "95.01%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "95.85%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 471,
     "timeDay": 649,
@@ -183,7 +183,7 @@
     "timeMonth": 665,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2023-10-21": 72
+      "2023-10-21": 60
     }
   },
   {
@@ -193,9 +193,9 @@
     "slug": "account-info",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "95.01%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "95.85%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 467,
     "timeDay": 641,
@@ -203,7 +203,7 @@
     "timeMonth": 665,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2023-10-21": 72
+      "2023-10-21": 60
     }
   },
   {
@@ -213,9 +213,9 @@
     "slug": "auth-api",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "95.01%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "95.85%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 472,
     "timeDay": 638,
@@ -223,7 +223,7 @@
     "timeMonth": 680,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2023-10-21": 72,
+      "2023-10-21": 60,
       "2023-01-23": 45
     }
   },
