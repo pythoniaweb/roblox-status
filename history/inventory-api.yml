@@ -1,7 +1,7 @@
 url: https://inventory.roblox.com/
-status: up
-code: 200
+status: down
+code: 404
 responseTime: 77
-lastUpdated: 2024-10-24T23:36:23.900Z
+lastUpdated: 2024-10-25T00:00:05.024Z
 startTime: 2022-11-06T21:22:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
