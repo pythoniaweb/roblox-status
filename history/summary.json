@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 478,
-    "timeDay": 292,
-    "timeWeek": 336,
-    "timeMonth": 378,
+    "time": 479,
+    "timeDay": 434,
+    "timeWeek": 368,
+    "timeMonth": 374,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2025-12-19": 145
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 200,
-    "timeDay": 55,
-    "timeWeek": 94,
-    "timeMonth": 149,
+    "timeDay": 263,
+    "timeWeek": 123,
+    "timeMonth": 148,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2025-12-19": 145
@@ -51,10 +51,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 352,
-    "timeDay": 526,
-    "timeWeek": 317,
+    "timeDay": 317,
+    "timeWeek": 333,
     "timeMonth": 617,
-    "timeYear": 373,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2026-01-08": 21
     }
@@ -65,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/thumbnails.roblox.com.ico",
     "slug": "thumbnail-s-api",
     "status": "down",
-    "uptime": "59.97%",
+    "uptime": "59.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 141,
-    "timeDay": 219,
-    "timeWeek": 167,
-    "timeMonth": 128,
+    "timeDay": 257,
+    "timeWeek": 197,
+    "timeMonth": 130,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2026-01-24": 123,
+      "2026-01-25": 144,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -439,8 +440,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -449,18 +449,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/assetdelivery.roblox.com.ico",
     "slug": "asset-s-delivery",
     "status": "down",
-    "uptime": "59.97%",
+    "uptime": "59.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 138,
-    "timeDay": 157,
-    "timeWeek": 168,
-    "timeMonth": 118,
+    "timeDay": 147,
+    "timeWeek": 171,
+    "timeMonth": 114,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2026-01-24": 123,
+      "2026-01-25": 144,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -823,8 +824,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -833,18 +833,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gamejoin.roblox.com.ico",
     "slug": "game-join-api",
     "status": "down",
-    "uptime": "59.98%",
+    "uptime": "59.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 194,
-    "timeDay": 153,
-    "timeWeek": 167,
-    "timeMonth": 142,
+    "timeDay": 122,
+    "timeWeek": 176,
+    "timeMonth": 135,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2026-01-24": 123,
+      "2026-01-25": 144,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -1207,8 +1208,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -1217,18 +1217,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/twostepverification.roblox.com.ico",
     "slug": "2-fa-api",
     "status": "down",
-    "uptime": "59.98%",
+    "uptime": "59.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 129,
-    "timeDay": 107,
-    "timeWeek": 105,
-    "timeMonth": 92,
-    "timeYear": 132,
+    "timeDay": 113,
+    "timeWeek": 114,
+    "timeMonth": 88,
+    "timeYear": 131,
     "dailyMinutesDown": {
-      "2026-01-24": 123,
+      "2026-01-25": 144,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -1591,8 +1592,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -1601,18 +1601,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/accountsettings.roblox.com.ico",
     "slug": "account-settings",
     "status": "down",
-    "uptime": "59.99%",
+    "uptime": "59.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 128,
-    "timeDay": 152,
-    "timeWeek": 122,
+    "time": 129,
+    "timeDay": 219,
+    "timeWeek": 147,
     "timeMonth": 101,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2026-01-24": 123,
+      "2026-01-25": 144,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -1975,8 +1976,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -1985,18 +1985,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/voice.roblox.com.ico",
     "slug": "voice-api",
     "status": "down",
-    "uptime": "59.99%",
+    "uptime": "59.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 123,
-    "timeDay": 117,
-    "timeWeek": 96,
-    "timeMonth": 96,
+    "timeDay": 123,
+    "timeWeek": 106,
+    "timeMonth": 90,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2026-01-24": 123,
+      "2026-01-25": 144,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -2359,8 +2360,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -2369,18 +2369,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/accountinformation.roblox.com.ico",
     "slug": "account-info",
     "status": "down",
-    "uptime": "59.98%",
+    "uptime": "59.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.01%",
     "time": 127,
-    "timeDay": 94,
-    "timeWeek": 97,
-    "timeMonth": 95,
+    "timeDay": 80,
+    "timeWeek": 103,
+    "timeMonth": 91,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2026-01-24": 123,
+      "2026-01-25": 144,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -2743,8 +2744,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -2753,18 +2753,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.roblox.com.ico",
     "slug": "auth-api",
     "status": "down",
-    "uptime": "59.99%",
+    "uptime": "59.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 127,
-    "timeDay": 76,
-    "timeWeek": 89,
-    "timeMonth": 85,
+    "timeDay": 67,
+    "timeWeek": 93,
+    "timeMonth": 81,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2026-01-24": 124,
+      "2026-01-25": 144,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -3127,8 +3128,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -3137,18 +3137,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/privatemessages.roblox.com.ico",
     "slug": "private-message-api",
     "status": "down",
-    "uptime": "59.97%",
+    "uptime": "59.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 131,
-    "timeDay": 118,
-    "timeWeek": 106,
+    "time": 132,
+    "timeDay": 196,
+    "timeWeek": 129,
     "timeMonth": 94,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2026-01-24": 124,
+      "2026-01-25": 144,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -3511,8 +3512,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -3521,18 +3521,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.roblox.com.ico",
     "slug": "chat-api",
     "status": "down",
-    "uptime": "59.98%",
+    "uptime": "59.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 118,
-    "timeDay": 85,
-    "timeWeek": 100,
-    "timeMonth": 91,
+    "time": 119,
+    "timeDay": 209,
+    "timeWeek": 124,
+    "timeMonth": 90,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2026-01-24": 124,
+      "2026-01-25": 145,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -3895,8 +3896,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -3905,18 +3905,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/friends.roblox.com.ico",
     "slug": "friends-api",
     "status": "down",
-    "uptime": "59.98%",
+    "uptime": "59.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 126,
-    "timeDay": 97,
-    "timeWeek": 96,
-    "timeMonth": 94,
+    "timeDay": 79,
+    "timeWeek": 100,
+    "timeMonth": 88,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2026-01-24": 124,
+      "2026-01-25": 145,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -4279,8 +4280,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -4289,18 +4289,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/billing.roblox.com.ico",
     "slug": "billing-api",
     "status": "down",
-    "uptime": "59.98%",
+    "uptime": "59.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 118,
-    "timeDay": 83,
-    "timeWeek": 93,
-    "timeMonth": 92,
+    "timeDay": 221,
+    "timeWeek": 118,
+    "timeMonth": 93,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2026-01-24": 124,
+      "2026-01-25": 145,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -4663,8 +4664,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -4679,10 +4679,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 149,
+    "timeDay": 40,
     "timeWeek": 142,
-    "timeMonth": 149,
-    "timeYear": 195,
+    "timeMonth": 146,
+    "timeYear": 194,
     "dailyMinutesDown": {}
   },
   {
@@ -4691,18 +4691,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/games.roblox.com.ico",
     "slug": "games-api",
     "status": "down",
-    "uptime": "60.00%",
+    "uptime": "59.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 124,
-    "timeDay": 79,
-    "timeWeek": 102,
-    "timeMonth": 90,
+    "timeDay": 81,
+    "timeWeek": 107,
+    "timeMonth": 86,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2026-01-24": 124,
+      "2026-01-25": 145,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -5065,8 +5066,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -5075,18 +5075,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/users.roblox.com.ico",
     "slug": "user-s-api",
     "status": "down",
-    "uptime": "59.96%",
+    "uptime": "59.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 116,
-    "timeDay": 113,
-    "timeWeek": 100,
-    "timeMonth": 89,
+    "timeDay": 74,
+    "timeWeek": 105,
+    "timeMonth": 83,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2026-01-24": 124,
+      "2026-01-25": 145,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -5449,8 +5450,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -5459,18 +5459,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/inventory.roblox.com.ico",
     "slug": "inventory-api",
     "status": "down",
-    "uptime": "59.99%",
+    "uptime": "59.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 123,
-    "timeDay": 122,
-    "timeWeek": 97,
-    "timeMonth": 87,
+    "timeDay": 142,
+    "timeWeek": 112,
+    "timeMonth": 85,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2026-01-24": 124,
+      "2026-01-25": 145,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -5833,8 +5834,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -5843,18 +5843,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gamepersistence.roblox.com.ico",
     "slug": "data-storage-api",
     "status": "down",
-    "uptime": "59.99%",
+    "uptime": "59.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 122,
-    "timeDay": 180,
-    "timeWeek": 105,
-    "timeMonth": 95,
-    "timeYear": 125,
+    "timeDay": 68,
+    "timeWeek": 106,
+    "timeMonth": 89,
+    "timeYear": 124,
     "dailyMinutesDown": {
-      "2026-01-24": 124,
+      "2026-01-25": 145,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -6217,8 +6218,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -6227,18 +6227,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/develop.roblox.com.ico",
     "slug": "developer-api",
     "status": "down",
-    "uptime": "59.99%",
+    "uptime": "59.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 116,
-    "timeDay": 135,
-    "timeWeek": 102,
-    "timeMonth": 87,
+    "timeDay": 101,
+    "timeWeek": 109,
+    "timeMonth": 83,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2026-01-24": 124,
+      "2026-01-25": 145,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -6601,8 +6602,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -6611,18 +6611,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/groups.roblox.com.ico",
     "slug": "groups-api",
     "status": "down",
-    "uptime": "59.96%",
+    "uptime": "59.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 112,
-    "timeDay": 119,
-    "timeWeek": 84,
-    "timeMonth": 81,
-    "timeYear": 114,
+    "timeDay": 70,
+    "timeWeek": 89,
+    "timeMonth": 76,
+    "timeYear": 113,
     "dailyMinutesDown": {
-      "2026-01-24": 124,
+      "2026-01-25": 145,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -6985,8 +6986,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -6995,18 +6995,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/contacts.roblox.com.ico",
     "slug": "contact-s-api",
     "status": "down",
-    "uptime": "59.99%",
+    "uptime": "59.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 116,
-    "timeDay": 94,
-    "timeWeek": 110,
-    "timeMonth": 91,
+    "timeDay": 145,
+    "timeWeek": 124,
+    "timeMonth": 88,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2026-01-24": 124,
+      "2026-01-25": 145,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -7369,8 +7370,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -7379,18 +7379,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalog.roblox.com.ico",
     "slug": "catalog-api",
     "status": "down",
-    "uptime": "59.99%",
+    "uptime": "59.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 124,
-    "timeDay": 0,
-    "timeWeek": 92,
-    "timeMonth": 87,
+    "timeDay": 72,
+    "timeWeek": 97,
+    "timeMonth": 79,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2026-01-24": 124,
+      "2026-01-25": 145,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -7753,8 +7754,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -7769,9 +7769,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 520,
-    "timeDay": 1416,
-    "timeWeek": 640,
-    "timeMonth": 544,
+    "timeDay": 596,
+    "timeWeek": 665,
+    "timeMonth": 547,
     "timeYear": 506,
     "dailyMinutesDown": {
       "2025-06-26": 94,
@@ -7787,18 +7787,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/avatar.roblox.com.ico",
     "slug": "avatar-api",
     "status": "down",
-    "uptime": "59.98%",
+    "uptime": "59.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 115,
-    "timeDay": 149,
-    "timeWeek": 97,
-    "timeMonth": 87,
-    "timeYear": 116,
+    "timeDay": 210,
+    "timeWeek": 120,
+    "timeMonth": 86,
+    "timeYear": 117,
     "dailyMinutesDown": {
-      "2026-01-24": 124,
+      "2026-01-25": 145,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -8161,8 +8162,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -8171,18 +8171,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/economy.roblox.com.ico",
     "slug": "economy-api",
     "status": "down",
-    "uptime": "59.98%",
+    "uptime": "59.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 137,
-    "timeDay": 97,
-    "timeWeek": 93,
-    "timeMonth": 82,
+    "timeDay": 74,
+    "timeWeek": 96,
+    "timeMonth": 77,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2026-01-24": 124,
+      "2026-01-25": 145,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -8545,8 +8546,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -8555,18 +8555,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/premiumfeatures.roblox.com.ico",
     "slug": "premium-future-s-api",
     "status": "down",
-    "uptime": "59.98%",
+    "uptime": "59.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 125,
-    "timeDay": 105,
-    "timeWeek": 98,
-    "timeMonth": 87,
+    "timeDay": 71,
+    "timeWeek": 101,
+    "timeMonth": 82,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2026-01-24": 124,
+      "2026-01-25": 145,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -8929,8 +8930,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -8939,18 +8939,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/badges.roblox.com.ico",
     "slug": "badge-s-api",
     "status": "down",
-    "uptime": "59.97%",
+    "uptime": "59.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 124,
-    "timeDay": 144,
-    "timeWeek": 100,
-    "timeMonth": 85,
+    "time": 123,
+    "timeDay": 67,
+    "timeWeek": 104,
+    "timeMonth": 80,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2026-01-24": 124,
+      "2026-01-25": 145,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -9313,8 +9314,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   }
 ]
